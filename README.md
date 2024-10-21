@@ -47,7 +47,7 @@ npm run build
    4. Find - Load unpacked extension
    5. Select - `dist` folder in this project (after dev or build)
 
-5. Run the [next-playWright-app](https://github.com/Ivan-Kanashchenko/next-playwright-app.git) on your localhost
+5. Run the [Next-PlayWright-app](https://github.com/Ivan-Kanashchenko/next-playwright-app.git) on your localhost
 
 6. Open LinkedIn in your Chrome and click on the "Lazy invite" button in the left bottom area of the page
 
