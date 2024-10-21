@@ -9,9 +9,8 @@ This project is not intended for commercial use. The project is designed to auto
 | Technology |
 | ---------- |
 | React      |
-| Next.js    |
+| Vite       |
 | TypeScript |
-| PlayWright |
 
 ## Engines
 
@@ -49,6 +48,8 @@ npm run build
    5. Select - `dist` folder in this project (after dev or build)
 
 5. Run the [next-playWright-app](https://github.com/Ivan-Kanashchenko/next-playwright-app.git) on your localhost
+
+6. Open LinkedIn in your Chrome and click on the "Lazy invite" button in the left bottom area of the page
 
 ## Documents
 
